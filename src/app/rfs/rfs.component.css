@@ -1,2 +1,0 @@
-<label>employeeName: <input type = 'text' [formControl]= 'EmployeeName' >
-  </label>;
